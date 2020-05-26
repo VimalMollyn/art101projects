@@ -3,6 +3,6 @@
 # Projects will be uploaded, with students' permission, in mid-June 2020.
 
 
+ART 101 is taught by [Wes Modes](https://people.ucsc.edu/~wmodes/art101/)
 
-[Wes Modes](https://www.wesmodes.io)
-
+Carinne Knight and Sarah Frost are teaching assistants.
