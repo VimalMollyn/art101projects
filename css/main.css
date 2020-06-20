@@ -143,14 +143,17 @@ p {
     font-size: 100%;
     color: #606060;
     width: 35%;
+    position: relative;
 }
 
 .sContainer {
     width: 70%;
+    position: absolute;
 }
 
 video {
     width: 35%;
+    position: relative;
 }
 
 
