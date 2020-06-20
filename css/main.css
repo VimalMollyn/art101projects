@@ -113,7 +113,7 @@ h1 {
     padding-bottom: 0px;
     margin-bottom: 10px;
     font-size: 324%;
-    margin-left: 25px;
+    margin-left: 30px;
 }
 
 h2 {
@@ -134,7 +134,7 @@ h3 {
     padding-bottom: 0px;
     margin-bottom: 5px;
     font-size: 148%;
-    margin-left: 25px;
+    margin-left: 30px;
 }
 
 p {
@@ -163,11 +163,15 @@ p {
 }
 
 .left {
-  width: 25%;
+    width: 40%;
+    font-family: 'Libre Baskerville', serif;
+    font-style: italic;
+    font-size: 100%;
+    color: #606060;
 }
 
 .right {
-  width: 75%;
+  width: 60%;
 }
 
 /* Clear floats after the columns */
