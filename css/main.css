@@ -148,6 +148,7 @@ p {
 
 .sContainer {
     width: 70%;
+    position: absolute;
 }
 
 video {
