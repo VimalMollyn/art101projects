@@ -162,7 +162,7 @@ p {
 }
 
 .left {
-    width: 45%;
+    width: 40%;
     font-family: 'Libre Baskerville', serif;
     font-style: italic;
     font-size: 100%;
@@ -170,7 +170,7 @@ p {
 }
 
 .right {
-  width: 55%;
+  width: 60%;
 }
 
 video {
@@ -190,7 +190,7 @@ video {
   clear: both;
 }
 
-href {
+a {
 
   text-decoration-line: underline;
   text-decoration-style: wavy;
