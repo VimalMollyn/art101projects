@@ -149,11 +149,7 @@ p {
 
 /*Sarah's code begin */
 
-@media screen and (max-width: 600px) {
-  .column {
-    width: 100%;
-  }
-}
+
 
 * {
   box-sizing: border-box;
@@ -177,10 +173,15 @@ p {
   width: 55%;
 }
 
-video {
-    height:400px;
+/*video {
     width:100%;
-    overflow:hidden;
+}*/
+
+
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
 }
 /* Clear floats after the columns */
 .row:after {
