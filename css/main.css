@@ -173,9 +173,9 @@ p {
   width: 55%;
 }
 
-/*video {
+video {
     width:100%;
-}*/
+}
 
 
 @media screen and (max-width: 600px) {
