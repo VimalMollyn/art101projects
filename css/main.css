@@ -147,6 +147,7 @@ p {
 }
 
 
+/*Sarah's code begin */
 
 @media screen and (max-width: 600px) {
   .column {
@@ -182,6 +183,13 @@ p {
   display: table;
   clear: both;
 }
+
+a:href {
+
+  text-decoration-line: underline;
+  text-decoration-style: wavy;
+}
+/*Sarah's Code end*/
 
 .bigger p {
     font-size: 125%;
