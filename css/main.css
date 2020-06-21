@@ -177,6 +177,11 @@ p {
   width: 55%;
 }
 
+video {
+    height:400px;
+    width:100%;
+    overflow:hidden;
+}
 /* Clear floats after the columns */
 .row:after {
   content: "";
@@ -184,7 +189,7 @@ p {
   clear: both;
 }
 
-a:href {
+href {
 
   text-decoration-line: underline;
   text-decoration-style: wavy;
