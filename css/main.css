@@ -192,10 +192,16 @@ video {
 }
 
 a {
-
+  color: black;
   text-decoration-line: underline;
   text-decoration-style: wavy;
 }
+
+a:hover {
+    color: red;
+
+}
+
 /*Sarah's Code end*/
 
 .bigger p {
